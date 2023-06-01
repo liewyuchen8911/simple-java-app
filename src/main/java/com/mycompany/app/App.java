@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("last change for today");
+        System.out.println("okok");
     }
 
     public String getMessage() {
